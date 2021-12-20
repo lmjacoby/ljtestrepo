@@ -16,3 +16,9 @@ def nestedforloop(bool):
                 sumlist.append(args)
 
     return(sumlist)
+
+
+def year_counter(current, earliest):
+    years = [str(year)+"-"+str(year) for year in range(current, earliest, -1)
+            ]
+    return years
