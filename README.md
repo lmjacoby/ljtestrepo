@@ -2,4 +2,4 @@
 repo to practice git stuff with
 
 Useful for visuals on branching with basic commands for workflow with main, development, feature, and hotfix branches
-[Link text Here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+[https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow]
